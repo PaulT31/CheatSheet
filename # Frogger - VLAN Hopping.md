@@ -9,11 +9,11 @@ Simple VLAN enumeration and hopping script.
 
 ## How to install
 You have to retrieve sources from the Github
-'git clone https://github.com/nccgroup/vlan-hopping.git'
+`git clone https://github.com/nccgroup/vlan-hopping.git`
 
 ## How to use
 You simply have to execute the script using shell
-'./frogger.sh'
+`./frogger.sh`
 Execute it as root
 
 ### Requirements
